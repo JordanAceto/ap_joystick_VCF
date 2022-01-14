@@ -1,5 +1,7 @@
 ## Joystick controlled analog filter
 
+### [SCHEMATIC](https://github.com/JordanAceto/ap_joystick_VCF/blob/abf103da030d879495544d6380067c770d1f6861/construction_docs/ap_joystick_VCF_schematic.pdf)
+
 ### Features:
 - SSM2164 stlye lowpass filter
     - 4-pole, 2-pole, and bandpass outputs available
