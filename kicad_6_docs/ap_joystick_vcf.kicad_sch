@@ -1491,9 +1491,9 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e1d07ad6-0962-4337-a65a-9639f23a6cad)
   )
-  (label "DRY" (at 119.38 101.6 180)
+  (label "VCF_IN" (at 119.38 101.6 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid e46629ef-df8e-4067-93c9-da48667f8ef4)
+    (uuid f2a4f062-18a2-4173-9742-24a874255527)
   )
 
   (symbol (lib_id "power:GND") (at 243.84 76.2 0) (mirror y) (unit 1)
