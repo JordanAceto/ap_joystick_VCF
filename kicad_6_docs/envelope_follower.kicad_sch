@@ -6,7 +6,7 @@
 
   (title_block
     (title "A.P. Joystick VCF pedal")
-    (date "2022-01-14")
+    (date "2022-08-01")
     (rev "0")
     (comment 2 "creativecommons.org/licenses/by/4.0")
     (comment 3 "License: CC by 4.0")
@@ -863,9 +863,14 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (id 3) (at 220.98 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid d5a595e9-9d67-47cb-8a8d-c933eaa7f1cb))
+    (pin "2" (uuid aca257a4-4d42-4340-9d9a-b2505e8ceb50))
+    (pin "3" (uuid 2c32a17c-bf51-4031-80ca-40a868ac12ee))
     (pin "5" (uuid 8f57de6a-72f3-44c4-9eb9-21b4ea37c022))
     (pin "6" (uuid 0df2fa39-a46f-4c70-a449-35592cb64762))
     (pin "7" (uuid 99315245-fc4c-422e-bc54-9f563594efb4))
+    (pin "4" (uuid 3a765b28-ecb9-4348-951e-a18d7aa9578e))
+    (pin "8" (uuid dcd9608a-de99-411c-b674-ada57948373f))
   )
 
   (symbol (lib_id "Device:R") (at 85.09 106.68 90) (unit 1)
@@ -1172,6 +1177,11 @@
     (pin "1" (uuid 23f47963-f7de-40a0-b810-45c3a0df644f))
     (pin "2" (uuid 3bfde96b-cc90-48cf-9c4c-d42a08739f43))
     (pin "3" (uuid 013f506f-6ef8-4940-ad4e-f9cbc86fe496))
+    (pin "5" (uuid 7795ff76-c773-4e32-91ed-eddaad2ef2d4))
+    (pin "6" (uuid dc86532b-bd7b-48df-9490-deb33924696c))
+    (pin "7" (uuid e6a53f64-7cc9-4e48-b549-1c78b77bbc32))
+    (pin "4" (uuid 0fc2d058-70fa-4a91-b0d7-674c7eed2ec1))
+    (pin "8" (uuid 5dc808c4-4dd3-4891-9ed2-435652c54998))
   )
 
   (symbol (lib_id "Diode:1N4148") (at 100.33 85.09 180) (unit 1)
